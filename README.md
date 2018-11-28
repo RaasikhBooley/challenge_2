@@ -8,7 +8,7 @@ Lists, Text Formatting & Images Challenge
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://nateb228.github.io/html/index.html
+- https://raasikhbooley.github.io/challenge_2/lists_textformatting_images_challenge.html
 
 ## Prevalent Technologies Used
 
